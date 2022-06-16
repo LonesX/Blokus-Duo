@@ -2,7 +2,7 @@
 Project for Software Engineering II. Implementation of the game Blockus Duo in Java
 
 Credits : Lones, Quinn, Cassi
-Start page
+
 ![main page](https://user-images.githubusercontent.com/71943993/174089214-149de69f-0d87-492a-baef-8669614e2b9b.png)
 
 Player chosen screen
