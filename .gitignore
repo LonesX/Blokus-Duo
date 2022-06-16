@@ -1,0 +1,14 @@
+*.class
+.idea/
+*.iml
+*.xml
+*.pdf
+*.zip
+lib
+gradle/
+*.gradle
+*.bat
+build
+bin/main/
+.gradle/
+.gradlew
