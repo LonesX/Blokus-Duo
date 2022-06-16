@@ -10,3 +10,6 @@ Player chosen screen
 
 Gameplay screen
 ![Gameplay](https://user-images.githubusercontent.com/71943993/174089614-77aa5174-7e21-44c5-914a-6aee566000b1.png)
+
+
+To run the game just run the Sprint 5 JAR file included.
